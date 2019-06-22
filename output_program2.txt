@@ -1,0 +1,635 @@
+Project 2 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n?
+y
+Please enter a String
+$_a_3B$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  _
+current state is  4
+character is  a
+current state is  4
+character is  _
+current state is  4
+character is  3
+current state is  4
+character is  B
+current state is  4
+character is  $
+Symbol: '$' was popped from stack
+state is: 6, this is final state and an accepting state
+Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$_ba76+R*3%fF_45n/812-mN3T$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  _
+current state is  4
+character is  b
+current state is  4
+character is  a
+current state is  4
+character is  7
+current state is  4
+character is  6
+current state is  4
+character is  +
+current state is  2
+character is  R
+current state is  4
+character is  *
+current state is  2
+character is  3
+current state is  3
+character is  %
+current state is  2
+character is  f
+current state is  4
+character is  F
+current state is  4
+character is  _
+current state is  4
+character is  4
+current state is  4
+character is  5
+current state is  4
+character is  n
+current state is  4
+character is  /
+current state is  2
+character is  8
+current state is  3
+character is  1
+current state is  3
+character is  2
+current state is  3
+character is  -
+current state is  2
+character is  m
+current state is  4
+character is  N
+current state is  4
+character is  3
+current state is  4
+character is  T
+current state is  4
+character is  $
+Symbol: '$' was popped from stack
+state is: 6, this is final state and an accepting state
+Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$ba%_c4*7m-f8/h98u$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  b
+current state is  4
+character is  a
+current state is  4
+character is  %
+current state is  2
+character is  _
+current state is  4
+character is  c
+current state is  4
+character is  4
+current state is  4
+character is  *
+current state is  2
+character is  7
+current state is  3
+Not Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$y33(x23g)$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  y
+current state is  4
+character is  3
+current state is  4
+character is  3
+current state is  4
+Not Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$(((r1+9-fs)*212))%((a2/Z7w))$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  r
+current state is  4
+character is  1
+current state is  4
+character is  +
+current state is  2
+character is  9
+current state is  3
+character is  -
+current state is  2
+character is  f
+current state is  4
+character is  s
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  *
+current state is  2
+character is  2
+current state is  3
+character is  1
+current state is  3
+character is  2
+current state is  3
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  %
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  a
+current state is  4
+character is  2
+current state is  4
+character is  /
+current state is  2
+character is  Z
+current state is  4
+character is  7
+current state is  4
+character is  w
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  $
+Symbol: '$' was popped from stack
+state is: 6, this is final state and an accepting state
+Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$(t0+wk)*bn)/c1$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  t
+current state is  4
+character is  0
+current state is  4
+character is  +
+current state is  2
+character is  w
+current state is  4
+character is  k
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  *
+current state is  2
+character is  b
+current state is  4
+character is  n
+current state is  4
+character is  )
+Not accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$(((ui+ej*(vk+ci))/pt)$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  u
+current state is  4
+character is  i
+current state is  4
+character is  +
+current state is  2
+character is  e
+current state is  4
+character is  j
+current state is  4
+character is  *
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  v
+current state is  4
+character is  k
+current state is  4
+character is  +
+current state is  2
+character is  c
+current state is  4
+character is  i
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  /
+current state is  2
+character is  p
+current state is  4
+character is  t
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  $
+Not accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$+g5$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+Not Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$52*(872/(P+kd34E/e3)-FW)+6%(((rw*_y4_b_d-r57ee*t)/y6+ugf))$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  5
+current state is  3
+character is  2
+current state is  3
+character is  *
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  8
+current state is  3
+character is  7
+current state is  3
+character is  2
+current state is  3
+character is  /
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  P
+current state is  4
+character is  +
+current state is  2
+character is  k
+current state is  4
+character is  d
+current state is  4
+character is  3
+current state is  4
+character is  4
+current state is  4
+character is  E
+current state is  4
+character is  /
+current state is  2
+character is  e
+current state is  4
+character is  3
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  -
+current state is  2
+character is  F
+current state is  4
+character is  W
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  +
+current state is  2
+character is  6
+current state is  3
+character is  %
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  r
+current state is  4
+character is  w
+current state is  4
+character is  *
+current state is  2
+character is  _
+current state is  4
+character is  y
+current state is  4
+character is  4
+current state is  4
+character is  _
+current state is  4
+character is  b
+current state is  4
+character is  _
+current state is  4
+character is  d
+current state is  4
+character is  -
+current state is  2
+character is  r
+current state is  4
+character is  5
+current state is  4
+character is  7
+current state is  4
+character is  e
+current state is  4
+character is  e
+current state is  4
+character is  *
+current state is  2
+character is  t
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  /
+current state is  2
+character is  y
+current state is  4
+character is  6
+current state is  4
+character is  +
+current state is  2
+character is  u
+current state is  4
+character is  g
+current state is  4
+character is  f
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  $
+Symbol: '$' was popped from stack
+state is: 6, this is final state and an accepting state
+Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$g0*(hs+(df-*ft))$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  g
+current state is  4
+character is  0
+current state is  4
+character is  *
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  h
+current state is  4
+character is  s
+current state is  4
+character is  +
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  d
+current state is  4
+character is  f
+current state is  4
+character is  -
+current state is  2
+Not Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$(tg+(hy-j7))/uk)*ri+(eo/wp$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  t
+current state is  4
+character is  g
+current state is  4
+character is  +
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  h
+current state is  4
+character is  y
+current state is  4
+character is  -
+current state is  2
+character is  j
+current state is  4
+character is  7
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  /
+current state is  2
+character is  u
+current state is  4
+character is  k
+current state is  4
+character is  )
+Not accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$(tg+(hy-j9))/uk)ri$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  t
+current state is  4
+character is  g
+current state is  4
+character is  +
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  h
+current state is  4
+character is  y
+current state is  4
+character is  -
+current state is  2
+character is  j
+current state is  4
+character is  9
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  /
+current state is  2
+character is  u
+current state is  4
+character is  k
+current state is  4
+character is  )
+Not accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$wm-(tn*bu)+$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  w
+current state is  4
+character is  m
+current state is  4
+character is  -
+current state is  2
+character is  (
+Symbol: ' ( ' was pushed to stack
+current state is  2
+character is  t
+current state is  4
+character is  n
+current state is  4
+character is  *
+current state is  2
+character is  b
+current state is  4
+character is  u
+current state is  4
+character is  )
+Symbol: ' ( ' was popped from stack
+current state is  5
+character is  +
+current state is  2
+Not Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$wm-tn(*bu)$
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  w
+current state is  4
+character is  m
+current state is  4
+character is  -
+current state is  2
+character is  t
+current state is  4
+character is  n
+current state is  4
+Not Accepted
+Do you want to enter a string y/n?
+y
+Please enter a String
+$wm-)tn*bu($
+current state is  1
+character is  $
+Symbol: '$' was pushed to stack
+current state is  2
+character is  w
+current state is  4
+character is  m
+current state is  4
+character is  -
+current state is  2
+Not Accepted
+Do you want to enter a string y/n?
+n

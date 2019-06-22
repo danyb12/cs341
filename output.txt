@@ -1,0 +1,672 @@
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+foo@njit.com
+character is:  f
+next state is:  2
+character is:  o
+next state is:  2
+character is:  o
+next state is:  2
+character is:  @
+next state is:  3
+character is:  n
+next state is:  4
+character is:  j
+next state is:  4
+character is:  i
+next state is:  4
+character is:  t
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+STRING IN LANG
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+z@c.com
+character is:  z
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+STRING IN LANG
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+ba@ba.co
+character is:  b
+next state is:  2
+character is:  a
+next state is:  2
+character is:  @
+next state is:  3
+character is:  b
+next state is:  4
+character is:  a
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+cdef@.com
+character is:  c
+next state is:  2
+character is:  d
+next state is:  2
+character is:  e
+next state is:  2
+character is:  f
+next state is:  2
+character is:  @
+next state is:  3
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+webweb.a.b.c.d.e@z.ai.cs.stanford.com
+character is:  w
+next state is:  2
+character is:  e
+next state is:  2
+character is:  b
+next state is:  2
+character is:  w
+next state is:  2
+character is:  e
+next state is:  2
+character is:  b
+next state is:  2
+character is:  .
+next state is:  1
+character is:  a
+next state is:  2
+character is:  .
+next state is:  1
+character is:  b
+next state is:  2
+character is:  .
+next state is:  1
+character is:  c
+next state is:  2
+character is:  .
+next state is:  1
+character is:  d
+next state is:  2
+character is:  .
+next state is:  1
+character is:  e
+next state is:  2
+character is:  @
+next state is:  3
+character is:  z
+next state is:  4
+character is:  .
+next state is:  5
+character is:  a
+next state is:  4
+character is:  i
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  s
+next state is:  4
+character is:  .
+next state is:  5
+character is:  s
+next state is:  4
+character is:  t
+next state is:  4
+character is:  a
+next state is:  4
+character is:  n
+next state is:  4
+character is:  f
+next state is:  4
+character is:  o
+next state is:  4
+character is:  r
+next state is:  4
+character is:  d
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+STRING IN LANG
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+foo@goo.com..com
+character is:  f
+next state is:  2
+character is:  o
+next state is:  2
+character is:  o
+next state is:  2
+character is:  @
+next state is:  3
+character is:  g
+next state is:  4
+character is:  o
+next state is:  4
+character is:  o
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+character is:  .
+next state is:  5
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+abqe.@boom.com
+character is:  a
+next state is:  2
+character is:  b
+next state is:  2
+character is:  q
+next state is:  2
+character is:  e
+next state is:  2
+character is:  .
+next state is:  1
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+comp@comp.com.
+character is:  c
+next state is:  2
+character is:  o
+next state is:  2
+character is:  m
+next state is:  2
+character is:  p
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  o
+next state is:  4
+character is:  m
+next state is:  4
+character is:  p
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+character is:  .
+next state is:  5
+not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+redblue@green..com
+character is:  r
+next state is:  2
+character is:  e
+next state is:  2
+character is:  d
+next state is:  2
+character is:  b
+next state is:  2
+character is:  l
+next state is:  2
+character is:  u
+next state is:  2
+character is:  e
+next state is:  2
+character is:  @
+next state is:  3
+character is:  g
+next state is:  4
+character is:  r
+next state is:  4
+character is:  e
+next state is:  4
+character is:  e
+next state is:  4
+character is:  n
+next state is:  4
+character is:  .
+next state is:  5
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+random@com
+character is:  r
+next state is:  2
+character is:  a
+next state is:  2
+character is:  n
+next state is:  2
+character is:  d
+next state is:  2
+character is:  o
+next state is:  2
+character is:  m
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  o
+next state is:  4
+character is:  m
+next state is:  4
+not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+poke@a.com.com
+character is:  p
+next state is:  2
+character is:  o
+next state is:  2
+character is:  k
+next state is:  2
+character is:  e
+next state is:  2
+character is:  @
+next state is:  3
+character is:  a
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+STRING IN LANG
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+www@com.comp
+character is:  w
+next state is:  2
+character is:  w
+next state is:  2
+character is:  w
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  o
+next state is:  4
+character is:  m
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+character is:  p
+next state is:  4
+not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+wwwb@com.co
+character is:  w
+next state is:  2
+character is:  w
+next state is:  2
+character is:  w
+next state is:  2
+character is:  b
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  o
+next state is:  4
+character is:  m
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+.two@three.com
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+food@for.com@
+character is:  f
+next state is:  2
+character is:  o
+next state is:  2
+character is:  o
+next state is:  2
+character is:  d
+next state is:  2
+character is:  @
+next state is:  3
+character is:  f
+next state is:  4
+character is:  o
+next state is:  4
+character is:  r
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+comp@company.co.com
+character is:  c
+next state is:  2
+character is:  o
+next state is:  2
+character is:  m
+next state is:  2
+character is:  p
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  o
+next state is:  4
+character is:  m
+next state is:  4
+character is:  p
+next state is:  4
+character is:  a
+next state is:  4
+character is:  n
+next state is:  4
+character is:  y
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+STRING IN LANG
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+computer@company.com.co
+character is:  c
+next state is:  2
+character is:  o
+next state is:  2
+character is:  m
+next state is:  2
+character is:  p
+next state is:  2
+character is:  u
+next state is:  2
+character is:  t
+next state is:  2
+character is:  e
+next state is:  2
+character is:  r
+next state is:  2
+character is:  @
+next state is:  3
+character is:  c
+next state is:  4
+character is:  o
+next state is:  4
+character is:  m
+next state is:  4
+character is:  p
+next state is:  4
+character is:  a
+next state is:  4
+character is:  n
+next state is:  4
+character is:  y
+next state is:  4
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+character is:  m
+next state is:  8
+character is:  .
+next state is:  5
+character is:  c
+next state is:  6
+character is:  o
+next state is:  7
+not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+@abcde.com
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+people.dog.cat@.com
+character is:  p
+next state is:  2
+character is:  e
+next state is:  2
+character is:  o
+next state is:  2
+character is:  p
+next state is:  2
+character is:  l
+next state is:  2
+character is:  e
+next state is:  2
+character is:  .
+next state is:  1
+character is:  d
+next state is:  2
+character is:  o
+next state is:  2
+character is:  g
+next state is:  2
+character is:  .
+next state is:  1
+character is:  c
+next state is:  2
+character is:  a
+next state is:  2
+character is:  t
+next state is:  2
+character is:  @
+next state is:  3
+String not in lang
+Project 1 for CS 341
+Semester: Spring 2019
+Written By: Dhanush Sureshbabu, ds676
+Instructor: Marvin Nakyama, marvin@njit.edu
+
+Do you want to enter a string y/n
+y
+enter a string
+cable..cord@fort.com
+character is:  c
+next state is:  2
+character is:  a
+next state is:  2
+character is:  b
+next state is:  2
+character is:  l
+next state is:  2
+character is:  e
+next state is:  2
+character is:  .
+next state is:  1
+String not in lang
